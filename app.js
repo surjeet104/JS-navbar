@@ -10,5 +10,5 @@ const links=document.querySelector(".links");
 
 navToggle.addEventListener("click",function(){
     // console.log(links.classList);
-    links.classList.toggle("show-links");eeeeeeeeeeeee
+    links.classList.toggle("show-links");
 });
